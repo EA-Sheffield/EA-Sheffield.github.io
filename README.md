@@ -1,5 +1,3 @@
-# Effective Altruism Sheffield
-
 ![image](media/banner.png)
 
 ## About
