@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-*As of September 2024, the only actively maintained source of information is this website.*
+*As of September 2024, the only actively maintained sources of information are this website and [this facebook page](https://www.facebook.com/EffectiveAltruismSheffield){:target="_blank"}.*
 
 There are still a few social media accounts left over from the EA Sheffield university group which no longer exists.
 
