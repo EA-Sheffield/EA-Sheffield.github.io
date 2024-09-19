@@ -8,5 +8,6 @@ url: "https://ea-sheffield.github.io"
 theme: minima
 plugins:
 header_pages:
+ - calendar.md
  - ea.md
  - contact.md
