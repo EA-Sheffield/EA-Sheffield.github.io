@@ -7,7 +7,7 @@ layout: home
 EA Sheffield is a local group for anyone interested in how to do the most good. Our events are open to anyone, including students and professionals.
 
 # Come to our launch social
-EA Sheffield just relaunched. Come to our **first social** next Thursday at The Red Lion (109 Charles St) at 6.30pm. [RSVP on facebook](https://tinyurl.com/ea-sheffield-launch){:target="_blank"}.
+EA Sheffield just relaunched. Come to our **first social** next Thursday (26.09.2024) at The Red Lion (109 Charles St) at 6.30pm. [RSVP on facebook](https://tinyurl.com/ea-sheffield-launch){:target="_blank"}.
 
 To add this event (or all future events) to your calendar [go here](calendar).
 
