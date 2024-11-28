@@ -9,6 +9,8 @@ EA Sheffield is a local group for anyone interested in how to do the most good. 
 # Come to our events
 We have monthly socials on the last Tuesday of every month at The Red Lion (109 Charles St) at 6.30pm.
 
+There is no monthly social in December. Instead, come to our vegan Christmas pot luck on 07 December 2024. [Sign up here](https://forms.gle/i5iUEPx5BNXe6rm7A).
+
 Find these and other events in our [calendar](calendar).
 
 To stay up to date, you can also [subscribe to our event newsletter](https://tinyurl.com/ea-sheffield-newsletter){:target="_blank"}.
