@@ -24,7 +24,7 @@ The talks will be given by you! [Fill out this super short form to contribute](h
 
 ## Monthly Socials
 
-We have monthly socials on the last Tuesday of every month at The Red Lion (109 Charles St) at 6.30pm.
+We have monthly socials on the last Tuesday of every month, from 6.30pm. They are now at The Old Shoe (Orchard Square).
 
 # Stay up to date
 
