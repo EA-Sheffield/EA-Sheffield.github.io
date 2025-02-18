@@ -8,6 +8,13 @@ EA Sheffield is a local group for anyone interested in how to do the most good. 
 
 # Come to our events!
 
+## EA North 2025
+[EA North](tinyurl.com/EANorth2025){:target="\_blank"} is a summit to bring together the local Effective Altruism community for a day of 1-1s, talks, cause area meetups, and more! It will be happening on Saturday, 26 April 2025 at the Showroom Workstation in Sheffield.
+
+[Apply here now!](tinyurl.com/EANorth2025-apply){:target="\_blank"}
+
+The schedule is kept vague on purpose. We want the day to be as useful as possible, so indicate what content you want to see in your application! What is keeping you from having more impact?
+
 ## Cause Area Evenings
 
 Cause Area Evenings are currently planned for the second Monday of every month.
