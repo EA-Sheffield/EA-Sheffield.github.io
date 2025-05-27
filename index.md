@@ -8,8 +8,7 @@ EA Sheffield is a local group for anyone interested in how to do the most good. 
 
 # Come to our monthly socials!
 
-We have monthly socials on the last Tuesday of every month, from 6.30pm. They are now at The Old Shoe (Orchard Square).
-
+We have monthly socials on the last Tuesday of every month, from 7.00pm. They are now at The Old Shoe (Orchard Square).
 
 # Stay up to date
 
