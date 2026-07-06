@@ -8,14 +8,18 @@ EA Sheffield is a local group for anyone interested in how to do the most good. 
 
 # Come to our monthly socials!
 
-We have monthly socials on the last Tuesday of every month, from 7.00pm. They are now at The Old Shoe (Orchard Square).
+We currently have monthly socials on the last Tuesday of even months (February, April, June, etc.). We meet at The Old Shoe (Orchard Square) at 7pm.
+
+You can check the [calendar](calendar) for any exceptions. Sometimes we meet outside if the weather is nice and there probably won't be a social in December because of Christmas.
 
 # Stay up to date
 
 You can find all of our events in the [calendar](calendar) and the [EA Forum](https://forum.effectivealtruism.org/groups/YjhuGBkHCQbZsTdzW){:target="\_blank"}.
 
-You can also [subscribe to our event newsletter](https://tinyurl.com/ea-sheffield-newsletter){:target="\_blank"}.
+You can also [subscribe to our newsletter](https://tinyurl.com/ea-sheffield-newsletter){:target="\_blank"}.
+
+Once you've come to an event, you can join our WhatsApp group for more updates and discussions!
 
 # Help shape EA Sheffield
 
-EA Sheffield relaunched recently. Help make it useful and fun by filling out [this survey](https://tinyurl.com/ea-sheffield-survey){:target="\_blank"}. It only has 6 quick questions. You can also always give [anonymous feedback](https://tinyurl.com/ea-sheffield-feedback){:target="\_blank"}.
+EA Sheffield is still relatively small and new. Help make it useful and fun by filling out [this survey](https://tinyurl.com/ea-sheffield-survey){:target="\_blank"}. It only has 6 quick questions. You can also always give [anonymous feedback](https://tinyurl.com/ea-sheffield-feedback){:target="\_blank"}.
