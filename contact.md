@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-_As of September 2024, the only actively maintained sources of information are this website and [the EA forum page](https://forum.effectivealtruism.org/groups/YjhuGBkHCQbZsTdzW){:target="\_blank"}._
+_As of July 2026, the only actively maintained sources of information are this website and [the EA forum page](https://forum.effectivealtruism.org/groups/YjhuGBkHCQbZsTdzW){:target="\_blank"}._
 
 There are still a few social media accounts left over from the EA Sheffield university group which no longer exists.
 
